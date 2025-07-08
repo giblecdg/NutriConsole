@@ -8,8 +8,9 @@ NutriConsole is a simple C# console application that allows loading, saving, and
 
 - Load and save data in JSON format
 - Add new meals and users
-- Calculate calories and basic macronutrients (protein, fats, carbohydrates)
+- Calculate calories and protein of the meal
 - Display a menu with options for user interaction
+- At the start of a new day, the list of meals is cleared!
 
 This project is educational and serves as a base for further development of a diet management application.
 
